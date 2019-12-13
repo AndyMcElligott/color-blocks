@@ -1,27 +1,27 @@
-.redButton {
-    background-color: red;
-    height: 100px;
-    width: 100px;
-    padding: 10px;
+#redLeader {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  padding: 10px;
 }
 
-.blueButton {
-    background-color: blue;
-    height: 100px;
-    width: 100px;
-    padding: 10px;
+#blueBaron {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  padding: 10px;
 }
 
-.greenButton {
-    background-color: green;
-    height: 100px;
-    width: 100px;
-    padding: 10px;
+#greenGoblin {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  padding: 10px;
 }
-s
-.yellowButton {
-    background-color: yellow;
-    height: 100px;
-    width: 100px;
-    padding: 10px;
+
+#yellowFive {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  padding: 10px;
 }
